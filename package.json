@@ -1,0 +1,19 @@
+{
+  "name": "package_bai",
+  "version": "1.0.0",
+  "description": "BAI package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anfisabliz/my_package.git"
+  },
+  "author": "Bliznetsova Anfisa Igorevna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anfisabliz/my_package/issues"
+  },
+  "homepage": "https://github.com/anfisabliz/my_package#readme"
+}
